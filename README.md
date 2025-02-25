@@ -1,2 +1,3 @@
 # gravity_game
-simple gravity drawing game 
+
+Simple gravity drawing game with sand, water, and stone.
